@@ -31,6 +31,29 @@ This project is a static recreation of the YouTube landing page built using **HT
 
 ## Project Structure
 
+├── index.html
+├── styles/
+│ ├── general.css
+│ ├── header.css
+│ ├── sidebar.css
+│ └── video.css
+├── thumbnails/
+│ ├── thumbnail-1.webp
+│ ├── thumbnail-2.webp
+│ └── ...
+├── channel-pictures/
+│ ├── channel-1.jpeg
+│ ├── channel-2.jpeg
+│ └── ...
+├── icons/
+│ ├── home.svg
+│ ├── search.svg
+│ ├── explore.svg
+│ └── ...
+└── README.md
+
+<pre><code>```text ├── index.html ├── styles/ │ ├── general.css │ ├── header.css │ ├── sidebar.css │ └── video.css ├── thumbnails/ │ ├── thumbnail-1.webp │ ├── thumbnail-2.webp │ └── ... ├── channel-pictures/ │ ├── channel-1.jpeg │ ├── channel-2.jpeg │ └── ... ├── icons/ │ ├── home.svg │ ├── search.svg │ ├── explore.svg │ └── ... └── README.md ``` </code></pre>
+
 ## How to Run
 
 1. Clone this repository.
@@ -41,15 +64,15 @@ This project is a static recreation of the YouTube landing page built using **HT
 
 ### Full Screen Layout
 
-![Full Screen](/README-Screenshots/image-1.png)
+![Full Screen](/HTML-CSS-Project-Youtube/README-Screenshots/image-1.png)
 
 ### Medium Screen Layout
 
-![Medium Screen](/CSS-Project-1-Youtube/README-Screenshots/image-2.png)
+![Medium Screen](/HTML-CSS-Project-Youtube/README-Screenshots/image-2.png)
 
 ### Smaller Screen Layout
 
-![Smaller Screen](/CSS-Project-1-Youtube/README-Screenshots/image-3.png)
+![Smaller Screen](/HTML-CSS-Project-Youtube/README-Screenshots/image-3.png)
 
 ## Future Improvements
 
