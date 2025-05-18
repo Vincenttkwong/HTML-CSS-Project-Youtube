@@ -62,15 +62,15 @@ This project is a static recreation of the YouTube landing page built using **HT
 
 ### Full Screen Layout
 
-![Full Screen](/HTML-CSS-Project-Youtube/README-Screenshots/image-1.png)
+![Full Screen](README-Screenshots/image-1.png)
 
 ### Medium Screen Layout
 
-![Medium Screen](/HTML-CSS-Project-Youtube/README-Screenshots/image-2.png)
+![Medium Screen](README-Screenshots/image-2.png)
 
 ### Smaller Screen Layout
 
-![Smaller Screen](/HTML-CSS-Project-Youtube/README-Screenshots/image-3.png)
+![Smaller Screen](README-Screenshots/image-3.png)
 
 ## Future Improvements
 
