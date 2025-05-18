@@ -31,26 +31,7 @@ This project is a static recreation of the YouTube landing page built using **HT
 
 ## Project Structure
 
-├── index.html
-├── styles/
-│ ├── general.css
-│ ├── header.css
-│ ├── sidebar.css
-│ └── video.css
-├── thumbnails/
-│ ├── thumbnail-1.webp
-│ ├── thumbnail-2.webp
-│ └── ...
-├── channel-pictures/
-│ ├── channel-1.jpeg
-│ ├── channel-2.jpeg
-│ └── ...
-├── icons/
-│ ├── home.svg
-│ ├── search.svg
-│ ├── explore.svg
-│ └── ...
-└── README.md
+<pre><code>```bash ├── index.html ├── styles/ │ ├── general.css │ ├── header.css │ ├── sidebar.css │ └── video.css ├── thumbnails/ │ ├── thumbnail-1.webp │ ├── thumbnail-2.webp │ └── ... ├── channel-pictures/ │ ├── channel-1.jpeg │ ├── channel-2.jpeg │ └── ... ├── icons/ │ ├── home.svg │ ├── search.svg │ ├── explore.svg │ └── ... └── README.md ``` </code></pre>
 
 ## How to Run
 
