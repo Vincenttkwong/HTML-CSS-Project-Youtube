@@ -4,6 +4,9 @@
 
 This project is a static recreation of the YouTube landing page built using **HTML5** and **CSS**. It was one of my first web development projects and served as an opportunity to learn how to structure a webpage, style it with CSS, and use hyperlinks to simulate navigation. The layout mimics the real YouTube homepage, featuring thumbnails, video titles, channel icons, and a styled navigation sidebar and header.
 
+Followed SuperSimpleDev HTML & CSS Full Course - Beginner to Pro
+https://www.youtube.com/watch?v=G3e-cpL7ofc&t=5913s
+
 ## Features
 
 - YouTube-style landing page layout with sidebar, header, and video grid
